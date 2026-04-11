@@ -1,0 +1,2 @@
+# SkewaySchoolERP
+School management Software
